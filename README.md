@@ -11,3 +11,7 @@
 * [iOS 内存管理与优化](https://www.jianshu.com/p/deab6550553a)
 * [彻底理解 iOS 内存管理(MRC、ARC)](https://www.jianshu.com/p/48665652e4e4)
 * [iOS 优化APP内存](https://blog.csdn.net/APPXcode/article/details/50034333)
+
+#### 自动释放池
+
+* [自动释放池的前世今生 ---- 深入解析 autoreleasepool](https://draveness.me/autoreleasepool)
